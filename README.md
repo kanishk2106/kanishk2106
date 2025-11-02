@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @kanishk2106
-- 👀 I’m interested in Machine Learning 
-- 🌱 I’m currently learning Information Science and Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - kanishkvardan@gmail.com
+### Hi, I’m Kanishk 
 
-<!---
-kanishk2106/kanishk2106 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+MS CS (Machine Learning) @ George Mason University · GTA
+
+I build ML systems end-to-end
+
+**What I’m focused on**
+- Research on LLMs and LLM agent tool-use 
+- Practical MLOps (containers, CI/CD, cloud)
+
+**Recent**
+- Open-source: PR to LangSmith SDK adding strict `feedback_config` validation → `langchain-ai/langsmith-sdk#2056` (cross-links `langchain-ai/langchain#31802`)
+
+**Contact**
+kanishkvardan@gmail.com · https://www.linkedin.com/in/kanishkvardan/
