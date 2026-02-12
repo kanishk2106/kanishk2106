@@ -1,6 +1,6 @@
 ### Hi, I’m Kanishk 
 
-MS CS (Machine Learning) @ George Mason University · GTA
+MS CS (Machine Learning) @ George Mason University · Research Assistant
 
 I build ML systems end-to-end
 
