@@ -1,15 +1,12 @@
 ### Hi, I’m Kanishk 
 
-MS CS (Machine Learning) @ George Mason University · Research Assistant
+I graduated from George Mason University (MS CS (Machine Learning)) 
 
-I build ML systems end-to-end
-
-**What I’m focused on**
-- Research on LLMs and LLM agent tool-use 
-- Practical MLOps (containers, CI/CD, cloud)
+I build backend systems and integrate them with Artificial Intelligence models, I specialize in optimizing AI models at inference by analysing GPUs
 
 **Recent**
-- Open-source: PR to LangSmith SDK adding strict `feedback_config` validation → `langchain-ai/langsmith-sdk#2056` (cross-links `langchain-ai/langchain#31802`)
+- RAG Chatbot (in-progress): Multi-cloud architecture for processing PDFs - vLLM for model optimization (Qwen3-8B on A10G GPU) - NodeJS (TypeScript) to bundle the process - React for UI
+- Open-source: PR to LangSmith SDK adding strict `feedback_config` validation - `langchain-ai/langsmith-sdk#2056` (cross-links `langchain-ai/langchain#31802`)
 
 **Contact**
 kanishkvardan@gmail.com · https://www.linkedin.com/in/kanishkvardan/
